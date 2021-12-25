@@ -1,5 +1,16 @@
-#### Hi there! 
-### I'm Wahbi Fadhillah
-### a Javascript Developer
+## Key technologies overview
 
-I mainly focused on website and system. Currently have less than a year experience in professional
+### 🖥️ Front-end 
+- PHP
+- React
+- CSS/ SASS
+
+### 🔗 Back-end
+- Laravel
+- Express
+
+### 💾 Database 
+- mySQL
+- PostgreSQL
+- MongoDB
+- Firebase
