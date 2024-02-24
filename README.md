@@ -2,15 +2,15 @@
 
 ### 🖥️ Front-end 
 - PHP
-- React
+- React & Next
 - CSS/ SASS
 
 ### 🔗 Back-end
 - Laravel
-- Express
+- Node/ Express
 
 ### 💾 Database 
 - mySQL
 - PostgreSQL
 - MongoDB
-- Firebase
+- Firebase/ Firestore
